@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdivinaElNumero</string>
+    <string name="btnPruebaNumero">PRUEBA ESTE NUMERO</string>
+    <string name="intentos">Intentos Restantes %1$d</string>
+    <string name="textoPista">Debes adivinar un numero entre 1-100Tienes 5 intentos</string>
+    <string name="textoPista1">Elige un numero mayor!!!</string>
+    <string name="textoPista2">Elige un numero menor!!!!</string>
+    <string name="textoPistaVictoria">Enhorabuena has ganado!!!!</string>
+    <string name="textoPistaDerrota">Has pedido el numero era %1$d</string>
+    <string name="textoPistaNuevoIntento">Intentalo otra vez</string>
+</resources>
