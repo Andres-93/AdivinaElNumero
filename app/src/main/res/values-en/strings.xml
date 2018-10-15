@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="btnPruebaNumero">Try this number</string>
+    <string name="intentos">Remain trys %1$d</string>
+    <string name="textoPista">Debes adivinar un numero entre 1-100Tienes 5 intentos</string>
+    <string name="textoPista1">choose one bigger!!!</string>
+    <string name="textoPista2">chose one lower!!!!</string>
+    <string name="textoPistaVictoria">congratualtions you win!!!!</string>
+    <string name="textoPistaDerrota">ooo you lose the number is %1$d</string>
+    <string name="textoPistaNuevoIntento">try again</string>
+</resources>

@@ -5,7 +5,7 @@
     android:id="@+id/layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_orange_light"
+    android:background="@android:color/holo_orange_dark"
     android:padding="@dimen/dimen1"
     tools:context="com.example.a21718908.adivinaelnumero.MainActivity">
 
@@ -26,14 +26,15 @@
         android:layout_above="@+id/btnProbar"
         android:layout_centerHorizontal="true"
         android:ems="10"
+        android:hint="@string/escribirNumero"
         android:inputType="textPersonName" />
 
     <TextView
         android:id="@+id/textoPista"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="161dp"
         android:padding="@dimen/dimen1"
@@ -45,8 +46,8 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:text="@string/intentos"
         android:textSize="24sp" />

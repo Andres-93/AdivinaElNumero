@@ -49,10 +49,6 @@ public class MainActivity extends AppCompatActivity {
             acabarPrograma(false);
         }
 
-
-
-
-
     }
 
     private void acabarPrograma(boolean mensaje) {
